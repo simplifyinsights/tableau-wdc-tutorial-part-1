@@ -1,6 +1,8 @@
 # Tableau WDC Tutorial Part One
 Tableau Web Data Connector Tutorial Part 1
 
+New line here
+
 To install the code and get up and running:
 
 - Install Node.js and NPM
